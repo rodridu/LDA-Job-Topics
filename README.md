@@ -17,7 +17,7 @@ The notebook provides an end-to-end workflow for processing, analyzing, and visu
 Ensure you have Python installed. Then, install the required libraries:
 
 ```bash
-pip install wordcloud matplotlib
+pip install nltk wordcloud matplotlib PyPDF2
 ```
 
 ## Usage
